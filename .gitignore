@@ -1,0 +1,6 @@
+# Exclude
+sim/*
+tb/*/data/*
+# Except
+!sim/compile.tcl
+!sim/run.tcl
